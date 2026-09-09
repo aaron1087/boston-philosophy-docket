@@ -292,6 +292,17 @@
   }
   .subscribe .btn:hover{filter:brightness(1.08);}
   .subscribe .btn:focus-visible{outline:2px solid var(--ink);outline-offset:2px;}
+  .subscribe .btn-alt{
+    color:var(--accent);
+    background:transparent;
+    border:1px solid var(--accent);
+  }
+  .subscribe .btn-alt:hover{background:var(--accent-soft);filter:none;}
+  .subscribe-actions{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+  }
   .subscribe p{
     margin:0;
     font-size:13px;
@@ -328,8 +339,11 @@
 </div>
 
 <div class="subscribe">
-  <a class="btn" href="webcal://docket.aaronlberman.com/docket.ics">Subscribe in your calendar</a>
-  <p>Every talk below lands in your own calendar and updates itself as new events are posted &mdash; nothing to sign up for. If the button doesn&rsquo;t open your calendar app, add <a href="https://docket.aaronlberman.com/docket.ics">this feed URL</a> by hand.</p>
+  <div class="subscribe-actions">
+    <a class="btn" href="https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fdocket.aaronlberman.com%2Fdocket.ics">Add to Google Calendar</a>
+    <a class="btn btn-alt" href="webcal://docket.aaronlberman.com/docket.ics">Apple Calendar &middot; Outlook</a>
+  </div>
+  <p>Every talk below lands in your own calendar and updates itself as new events are posted &mdash; nothing to sign up for. Any other calendar app: subscribe to <a href="https://docket.aaronlberman.com/docket.ics">this feed URL</a>.</p>
 </div>
 
 <div class="term"><h2>Fall 2026</h2><span class="line"></span><span class="count">21 events</span></div>
