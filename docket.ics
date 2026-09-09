@@ -1,0 +1,440 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Boston Philosophy Docket//docket.aaronlberman.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Philosophy Docket
+X-WR-CALDESC:Philosophy talks, workshops and conferences across the Bosto
+ n-area departments. Compiled by Aaron Berman.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:40820645ccc64c75a002@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Philip Pettit & Victoria McGeer (Princeton) — "Two Kinds of Age
+ nts: From Psychology to Politics" / "Empathy Internalized: On the Scaffol
+ ding Power of Self-Directed Emotion" [Tufts]
+DESCRIPTION:Start time not yet published by the host department.\n"Two Ki
+ nds of Agents: From Psychology to Politics" / "Empathy Internalized: On t
+ he Scaffolding Power of Self-Directed Emotion"\nWorks on: republicanism a
+ nd freedom as non-domination · group agency · moral responsibility · e
+ mpathy and mindshaping · philosophy of psychology\nAnnual Hugo Bedau Lec
+ ture\nTimes and rooms change — confirm with the host department.\nhttps
+ ://docket.aaronlberman.com
+LOCATION:Department of Philosophy\, Tufts University\, Medford MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:3320d6ba0cbd0ab3073c@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20260911T190000Z
+DTEND:20260911T210000Z
+SUMMARY:Patrick Connolly (Johns Hopkins) — "Newton's Matter Theory: Bet
+ ween Mechanism and Hylomorphism" [Harvard]
+DESCRIPTION:"Newton's Matter Theory: Between Mechanism and Hylomorphism"\
+ nWorks on: 17th–18th-century philosophy · Locke · history of science 
+ · philosophy of religion · Indigenous philosophy of the Americas\nHisto
+ ry of Philosophy Workshop · Emerson 211\nTimes and rooms change — conf
+ irm with the host department.\nhttps://docket.aaronlberman.com
+LOCATION:Robbins Library\, Emerson Hall 211\, Harvard University\, Cambri
+ dge MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:901efaf88223f6da013a@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20260915T200000Z
+DTEND:20260915T220000Z
+SUMMARY:Cinzia Arruzza (Boston University) — "The Second Sex in Plato's
+  Timaeus" [BU]
+DESCRIPTION:"The Second Sex in Plato's Timaeus"\nWorks on: ancient Greek 
+ and Roman philosophy · Plato's political thought · Marxist and feminist
+  theory · social reproduction · critique of capitalism\nWork in Progres
+ s in Ancient Philosophy\nTimes and rooms change — confirm with the host
+  department.\nhttps://docket.aaronlberman.com
+LOCATION:Department of Philosophy\, Boston University\, Boston MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:feeee8dbe8c7341991aa@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20260915T203000Z
+DTEND:20260915T223000Z
+SUMMARY:Ken Wharton (San José State) [BU]
+DESCRIPTION:Works on: retrocausality · quantum foundations · time symme
+ try · interpretations of quantum mechanics · Lagrangian approaches\nBos
+ ton Network for History & Philosophy of Physics\nTimes and rooms change 
+ — confirm with the host department.\nhttps://docket.aaronlberman.com
+LOCATION:Department of Philosophy\, Boston University\, Boston MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:c0d05593e85de938318c@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20260918T180000Z
+DTEND:20260918T200000Z
+SUMMARY:Matt Brewer [BU]
+DESCRIPTION:Works on: philosophy of earth sciences · scientific models a
+ nd representation · analogy in science · explanation and theory change\
+ nDissertation defense\nTimes and rooms change — confirm with the host d
+ epartment.\nhttps://docket.aaronlberman.com
+LOCATION:Department of Philosophy\, Boston University\, Boston MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:7da4be29a223cb4aeb9b@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20260925T190000Z
+DTEND:20260925T210000Z
+SUMMARY:Tom Parr (Warwick) — "Markets\, Firms\, and the Gender Pay Gap"
+  [Harvard]
+DESCRIPTION:"Markets\, Firms\, and the Gender Pay Gap"\nWorks on: applied
+  ethics · social and political philosophy · distributive justice and we
+ alth · labour and the workplace · public shaming\nColloquium · Emerson
+  305\nTimes and rooms change — confirm with the host department.\nhttps
+ ://docket.aaronlberman.com
+LOCATION:Emerson Hall 305\, Harvard University\, Cambridge MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:619ecdfec68b16752534@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20261002T200000Z
+DTEND:20261002T220000Z
+SUMMARY:Dana Miranda (UMass Boston) [BU]
+DESCRIPTION:Works on: Africana philosophy · political philosophy · exis
+ tentialism · antiblack racism and mental health · psychosocial studies\
+ nFriday Colloquium · 4:00–6:00 pm\nTimes and rooms change — confirm 
+ with the host department.\nhttps://docket.aaronlberman.com
+LOCATION:Department of Philosophy\, Boston University\, Boston MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:38a879bc46e7856fecda@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Cinzia Arruzza (Boston University) — "The Abolition of the Fami
+ ly and Women's Eudaimonia in Plato's Republic 5" [Tufts]
+DESCRIPTION:Start time not yet published by the host department.\n"The Ab
+ olition of the Family and Women's Eudaimonia in Plato's Republic 5"\nWork
+ s on: ancient Greek and Roman philosophy · Plato's political thought · 
+ Marxist and feminist theory · social reproduction · critique of capital
+ ism\nFall Colloquium Series\nTimes and rooms change — confirm with the 
+ host department.\nhttps://docket.aaronlberman.com
+LOCATION:Department of Philosophy\, Tufts University\, Medford MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:f082503e1f72c6a096e8@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20261009T190000Z
+DTEND:20261009T210000Z
+SUMMARY:Sean Greenberg (UC Irvine) [Harvard]
+DESCRIPTION:Works on: early modern philosophy · Leibniz · Malebranche 
+ · freedom of the will · theodicy and the problem of evil\nHistory of Ph
+ ilosophy Workshop · Emerson 211\nTimes and rooms change — confirm with
+  the host department.\nhttps://docket.aaronlberman.com
+LOCATION:Robbins Library\, Emerson Hall 211\, Harvard University\, Cambri
+ dge MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:4837355419fc4b217de4@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Carol Hay (UMass Lowell) [Tufts]
+DESCRIPTION:Start time not yet published by the host department.\nWorks o
+ n: feminist philosophy · oppression and resistance · Kantian ethics · 
+ autonomy · public philosophy\nFall Colloquium Series\nTimes and rooms ch
+ ange — confirm with the host department.\nhttps://docket.aaronlberman.c
+ om
+LOCATION:Department of Philosophy\, Tufts University\, Medford MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:9de34612044a56d48e1d@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20261020T200000Z
+DTEND:20261020T220000Z
+SUMMARY:Vanessa de Harven (UMass Amherst) — "Substantial Confusion: Why
+  Stoic ousia Is Not Matter" [BU]
+DESCRIPTION:"Substantial Confusion: Why Stoic ousia Is Not Matter"\nWorks
+  on: ancient Greek and Roman philosophy · Stoicism · metaphysics · cor
+ porealism and the void · determinism\nWork in Progress in Ancient Philos
+ ophy\nTimes and rooms change — confirm with the host department.\nhttps
+ ://docket.aaronlberman.com
+LOCATION:Department of Philosophy\, Boston University\, Boston MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:1c87340168b22a00c3e9@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20261021T230000Z
+DTEND:20261022T003000Z
+SUMMARY:Céline Leboeuf — Book release: The Tyranny of Thinness [Harvard]
+DESCRIPTION:Book release: The Tyranny of Thinness\nWorks on: feminist phi
+ losophy · critical philosophy of race · phenomenology of the body · be
+ auty standards · Beauvoir\nPorter Square Books · 7:00 pm\nTimes and roo
+ ms change — confirm with the host department.\nhttps://docket.aaronlber
+ man.com
+LOCATION:Porter Square Books\, Cambridge MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:d15187cfca742d43d016@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20261022T210000Z
+DTEND:20261022T230000Z
+SUMMARY:Laure Barillas (New Hampshire) — "What Is Powerlessness? A Phil
+ osophical Exploration" [BU]
+DESCRIPTION:"What Is Powerlessness? A Philosophical Exploration"\nWorks o
+ n: continental and French philosophy · feminist philosophy · race\, gen
+ der and social justice · powerlessness and agency\nInvited talk · 5:00 
+ pm\nTimes and rooms change — confirm with the host department.\nhttps:/
+ /docket.aaronlberman.com
+LOCATION:Department of Philosophy\, Boston University\, Boston MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:236957f416a02decca09@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20261023T190000Z
+DTEND:20261023T210000Z
+SUMMARY:Lauren Kopajtic (Fordham) [Harvard]
+DESCRIPTION:Works on: 18th-century moral philosophy · Hume · Adam Smith
+  · emotion regulation and self-control · gender and aesthetics\nHistory
+  of Philosophy Workshop · Emerson 211\nTimes and rooms change — confir
+ m with the host department.\nhttps://docket.aaronlberman.com
+LOCATION:Robbins Library\, Emerson Hall 211\, Harvard University\, Cambri
+ dge MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:4c5e1a5fcb1a9e6bd5a9@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20261030T190000Z
+DTEND:20261030T210000Z
+SUMMARY:Kathleen Creel (Northeastern) [Harvard]
+DESCRIPTION:Works on: ethics and philosophy of AI · algorithmic monocult
+ ure · arbitrariness and fairness in automated decisions · transparency 
+ · philosophy of science\nColloquium · Emerson 305\nTimes and rooms chan
+ ge — confirm with the host department.\nhttps://docket.aaronlberman.com
+LOCATION:Emerson Hall 305\, Harvard University\, Cambridge MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:b8e96d75c7bbc8b3641a@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Susan Brison (Dartmouth) [Tufts]
+DESCRIPTION:Start time not yet published by the host department.\nWorks o
+ n: trauma and personal identity · sexual violence · feminist philosophy
+  · free speech and hate speech · narrative and the self\nFall Colloquiu
+ m Series\nTimes and rooms change — confirm with the host department.\nh
+ ttps://docket.aaronlberman.com
+LOCATION:Department of Philosophy\, Tufts University\, Medford MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:9efe1b0a4771af369a31@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261108
+SUMMARY:Society for German Idealism and Romanticism [BU]
+DESCRIPTION:Conference\nTimes and rooms change — confirm with the host 
+ department.\nhttps://docket.aaronlberman.com
+LOCATION:Department of Philosophy\, Boston University\, Boston MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:967d294e1d7e27396162@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261115
+SUMMARY:North American Nietzsche Society [BU]
+DESCRIPTION:Conference\nTimes and rooms change — confirm with the host 
+ department.\nhttps://docket.aaronlberman.com
+LOCATION:Department of Philosophy\, Boston University\, Boston MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:02339212ad4728b3f889@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20261120T200000Z
+DTEND:20261120T220000Z
+SUMMARY:Alex Worsnip (UNC Chapel Hill) [Harvard]
+DESCRIPTION:Works on: structural rationality and coherence · epistemic n
+ ormativity · political epistemology · disagreement · practical reason\
+ nColloquium · Emerson 305\nTimes and rooms change — confirm with the h
+ ost department.\nhttps://docket.aaronlberman.com
+LOCATION:Emerson Hall 305\, Harvard University\, Cambridge MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:043bdca45eb72da61be3@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Sally Haslanger (MIT) [Tufts]
+DESCRIPTION:Start time not yet published by the host department.\nWorks o
+ n: social ontology · ideology and social structure · race and gender as
+  social kinds · critical social theory · ameliorative analysis\nFall Co
+ lloquium Series\nTimes and rooms change — confirm with the host departm
+ ent.\nhttps://docket.aaronlberman.com
+LOCATION:Department of Philosophy\, Tufts University\, Medford MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:3f5f62e49b804a185b6a@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20261204T210000Z
+DTEND:20261204T230000Z
+SUMMARY:Claire Kirwin (Northwestern) [BU]
+DESCRIPTION:Works on: value theory · Nietzsche · the creation of value 
+ · metaethics · 19th-century German philosophy\nFriday Colloquium · 4:0
+ 0–6:00 pm\nTimes and rooms change — confirm with the host department.
+ \nhttps://docket.aaronlberman.com
+LOCATION:Department of Philosophy\, Boston University\, Boston MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:a99317fb540a8e2615fe@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20270205T210000Z
+DTEND:20270205T230000Z
+SUMMARY:Rafeeq Hasan (Amherst) [BU]
+DESCRIPTION:Works on: social and political philosophy · Kant's political
+  thought · republicanism and structural domination · Rawls · freedom a
+ nd poverty\nFriday Colloquium\nTimes and rooms change — confirm with th
+ e host department.\nhttps://docket.aaronlberman.com
+LOCATION:Department of Philosophy\, Boston University\, Boston MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:3bd5a0f8845dd8c2b8c9@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20270212T200000Z
+DTEND:20270212T220000Z
+SUMMARY:Vida Yao (UCLA) [Harvard]
+DESCRIPTION:Works on: moral psychology · philosophy of love · moral cha
+ racter · moral emotion · normative ethics\nColloquium · Emerson 305\nT
+ imes and rooms change — confirm with the host department.\nhttps://dock
+ et.aaronlberman.com
+LOCATION:Emerson Hall 305\, Harvard University\, Cambridge MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:89ef28be65fd033eeef1@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20270219T200000Z
+DTEND:20270219T220000Z
+SUMMARY:Janum Sethi (Michigan) [Harvard]
+DESCRIPTION:Works on: Kant's metaphysics and epistemology · Kant's aesth
+ etics · judgment and the imagination · 17th–18th-century philosophy\n
+ History of Philosophy Workshop · Emerson 211\nTimes and rooms change —
+  confirm with the host department.\nhttps://docket.aaronlberman.com
+LOCATION:Robbins Library\, Emerson Hall 211\, Harvard University\, Cambri
+ dge MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:e819c5fe4cdaa55d26ae@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Calvin Normore (UCLA) [Tufts]
+DESCRIPTION:Start time not yet published by the host department.\nWorks o
+ n: medieval philosophy · Ockham and late scholastic logic · free will 
+ · history of ethics · metaphysics of modality\nSpring Colloquium Series
+ \nTimes and rooms change — confirm with the host department.\nhttps://d
+ ocket.aaronlberman.com
+LOCATION:Department of Philosophy\, Tufts University\, Medford MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:c75f1187d3fdfb47cf86@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20270305T200000Z
+DTEND:20270305T220000Z
+SUMMARY:Nick Riggle (San Diego) [Harvard]
+DESCRIPTION:Works on: aesthetics · social aesthetics and style · value 
+ theory · art and personal expression · aesthetic community\nColloquium 
+ · Emerson 305\nTimes and rooms change — confirm with the host departme
+ nt.\nhttps://docket.aaronlberman.com
+LOCATION:Emerson Hall 305\, Harvard University\, Cambridge MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:0dd47129afb107010fdc@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20270319T200000Z
+DTEND:20270319T220000Z
+SUMMARY:Anja Jauernig (NYU) [BU]
+DESCRIPTION:Works on: Kant · Leibniz · transcendental idealism · early
+  modern metaphysics · the moral status of animals\nFriday Colloquium\nTi
+ mes and rooms change — confirm with the host department.\nhttps://docke
+ t.aaronlberman.com
+LOCATION:Department of Philosophy\, Boston University\, Boston MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:f137a13a3a99d1ed87ce@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20270326T190000Z
+DTEND:20270326T210000Z
+SUMMARY:Emily Kress (Brown) [Harvard]
+DESCRIPTION:Works on: Aristotle · Plato · causation and explanation in 
+ ancient Greek philosophy · teleology · agency in natural processes\nHis
+ tory of Philosophy Workshop · Emerson 211\nTimes and rooms change — co
+ nfirm with the host department.\nhttps://docket.aaronlberman.com
+LOCATION:Robbins Library\, Emerson Hall 211\, Harvard University\, Cambri
+ dge MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:04edb343fd98e7a9bfa1@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20270402T190000Z
+DTEND:20270402T210000Z
+SUMMARY:Barbara Herman (UCLA) [Harvard]
+DESCRIPTION:Works on: Kantian ethics · moral judgment and practical reas
+ on · the value of humanity · moral literacy · obligation\nColloquium 
+ · Emerson 305\nTimes and rooms change — confirm with the host departme
+ nt.\nhttps://docket.aaronlberman.com
+LOCATION:Emerson Hall 305\, Harvard University\, Cambridge MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:48271327fc1f5975e22a@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART:20270416T200000Z
+DTEND:20270416T220000Z
+SUMMARY:Rachel Fraser (MIT) [BU]
+DESCRIPTION:Works on: epistemology · narrative and testimony · feminist
+  philosophy · language and gossip · social epistemology\nFriday Colloqu
+ ium\nTimes and rooms change — confirm with the host department.\nhttps:
+ //docket.aaronlberman.com
+LOCATION:Department of Philosophy\, Boston University\, Boston MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+BEGIN:VEVENT
+UID:95ee3ee331e1d4315f6d@docket.aaronlberman.com
+DTSTAMP:20260909T234144Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:Jon McGinnis (Toronto) [Tufts]
+DESCRIPTION:Start time not yet published by the host department.\nWorks o
+ n: Arabic and Islamic philosophy · Avicenna · medieval natural philosop
+ hy · classical and medieval science · causation\nSpring Colloquium Seri
+ es\nTimes and rooms change — confirm with the host department.\nhttps:/
+ /docket.aaronlberman.com
+LOCATION:Department of Philosophy\, Tufts University\, Medford MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+END:VCALENDAR
