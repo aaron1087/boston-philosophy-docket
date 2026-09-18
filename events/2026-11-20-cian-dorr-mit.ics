@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aaron Berman//Boston Philosophy Docket//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Philosophy Docket
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:6b3bcffbb9200a24c088@docket.aaronlberman.com
+DTSTAMP:20260915T120000Z
+DTSTART:20261120T200000Z
+DTEND:20261120T210000Z
+SUMMARY:Cian Dorr (NYU) [MIT]
+DESCRIPTION:Works on: metaphysics · philosophy of language · formal epist
+ emology · logic and modality · philosophy of physical science\nColloquiu
+ m\nTimes and rooms change without notice — confirm with the host departm
+ ent before travelling.\nhttps://docket.aaronlberman.com
+LOCATION:32-D461
+URL:https://docket.aaronlberman.com
+END:VEVENT
+END:VCALENDAR

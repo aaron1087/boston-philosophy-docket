@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aaron Berman//Boston Philosophy Docket//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Philosophy Docket
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:40820645ccc64c75a002@docket.aaronlberman.com
+DTSTAMP:20260915T120000Z
+DTSTART:20260911T193000Z
+DTEND:20260911T220000Z
+SUMMARY:Philip Pettit & Victoria McGeer (Princeton) — Two Kinds of Agents
+ : From Psychology to Politics / Empathy Internalized: On the Scaffolding P
+ ower of Self-Directed Emotion [Tufts]
+DESCRIPTION:Two Kinds of Agents: From Psychology to Politics / Empathy Inte
+ rnalized: On the Scaffolding Power of Self-Directed Emotion\nWorks on: rep
+ ublicanism and freedom as non-domination · group agency · moral responsi
+ bility · empathy and mindshaping · philosophy of psychology\nAnnual Hugo
+  Bedau Lecture\nTimes and rooms change without notice — confirm with the
+  host department before travelling.\nhttps://docket.aaronlberman.com
+LOCATION:Eaton 260
+URL:https://docket.aaronlberman.com
+END:VEVENT
+END:VCALENDAR

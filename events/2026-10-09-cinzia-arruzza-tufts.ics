@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aaron Berman//Boston Philosophy Docket//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Philosophy Docket
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:38a879bc46e7856fecda@docket.aaronlberman.com
+DTSTAMP:20260915T120000Z
+DTSTART:20261009T193000Z
+DTEND:20261009T213000Z
+SUMMARY:Cinzia Arruzza (Boston University) — The Abolition of the Family 
+ and Women's Eudaimonia in Plato's Republic 5 [Tufts]
+DESCRIPTION:The Abolition of the Family and Women's Eudaimonia in Plato's R
+ epublic 5\nWorks on: ancient Greek and Roman philosophy · Plato’s polit
+ ical thought · Marxist and feminist theory · social reproduction · crit
+ ique of capitalism\nFall Colloquium Series\nTimes and rooms change without
+  notice — confirm with the host department before travelling.\nhttps://d
+ ocket.aaronlberman.com
+LOCATION:Eaton 201
+URL:https://docket.aaronlberman.com
+END:VEVENT
+END:VCALENDAR

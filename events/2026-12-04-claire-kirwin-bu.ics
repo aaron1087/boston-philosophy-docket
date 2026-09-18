@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aaron Berman//Boston Philosophy Docket//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Philosophy Docket
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:3f5f62e49b804a185b6a@docket.aaronlberman.com
+DTSTAMP:20260915T120000Z
+DTSTART:20261204T210000Z
+DTEND:20261204T230000Z
+SUMMARY:Claire Kirwin (Northwestern) [BU]
+DESCRIPTION:Works on: value theory · Nietzsche · the creation of value 
+ · metaethics · 19th-century German philosophy\nFriday Colloquium\nTimes 
+ and rooms change without notice — confirm with the host department befor
+ e travelling.\nhttps://docket.aaronlberman.com
+LOCATION:Boston University Department of Philosophy\, Boston MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+END:VCALENDAR

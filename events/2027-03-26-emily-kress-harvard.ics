@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aaron Berman//Boston Philosophy Docket//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Philosophy Docket
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:f137a13a3a99d1ed87ce@docket.aaronlberman.com
+DTSTAMP:20260915T120000Z
+DTSTART:20270326T190000Z
+DTEND:20270326T210000Z
+SUMMARY:Emily Kress (Brown) [Harvard]
+DESCRIPTION:Works on: Aristotle · Plato · causation and explanation in an
+ cient Greek philosophy · teleology · agency in natural processes\nHistor
+ y of Philosophy Workshop\nTimes and rooms change without notice — confir
+ m with the host department before travelling.\nhttps://docket.aaronlberman
+ .com
+LOCATION:Emerson 211
+URL:https://docket.aaronlberman.com
+END:VEVENT
+END:VCALENDAR

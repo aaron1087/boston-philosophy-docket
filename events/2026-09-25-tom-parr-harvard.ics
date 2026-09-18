@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aaron Berman//Boston Philosophy Docket//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Philosophy Docket
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:7da4be29a223cb4aeb9b@docket.aaronlberman.com
+DTSTAMP:20260915T120000Z
+DTSTART:20260925T190000Z
+DTEND:20260925T210000Z
+SUMMARY:Tom Parr (Warwick) — Markets\, Firms\, and the Gender Pay Gap [Ha
+ rvard]
+DESCRIPTION:Markets\, Firms\, and the Gender Pay Gap\nWorks on: applied eth
+ ics · social and political philosophy · distributive justice and wealth 
+ · labour and the workplace · public shaming\nColloquium\nTimes and rooms
+  change without notice — confirm with the host department before travell
+ ing.\nhttps://docket.aaronlberman.com
+LOCATION:Emerson 305
+URL:https://docket.aaronlberman.com
+END:VEVENT
+END:VCALENDAR

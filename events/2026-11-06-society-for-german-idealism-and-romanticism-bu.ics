@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aaron Berman//Boston Philosophy Docket//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Philosophy Docket
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:9efe1b0a4771af369a31@docket.aaronlberman.com
+DTSTAMP:20260915T120000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261108
+SUMMARY:Society for German Idealism and Romanticism — Annual conference\,
+  two days [BU]
+DESCRIPTION:Annual conference\, two days\nConference\nTimes and rooms chang
+ e without notice — confirm with the host department before travelling.\n
+ https://docket.aaronlberman.com
+LOCATION:Boston University Department of Philosophy\, Boston MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+END:VCALENDAR

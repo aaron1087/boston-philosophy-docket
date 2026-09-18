@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aaron Berman//Boston Philosophy Docket//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Philosophy Docket
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:da9c80680af0b135677f@docket.aaronlberman.com
+DTSTAMP:20260915T120000Z
+DTSTART:20261106T200000Z
+DTEND:20261106T210000Z
+SUMMARY:Shelly Kagan (Yale) [MIT]
+DESCRIPTION:Works on: normative ethics · death and the value of life · an
+ imal ethics and speciesism · desert and well-being · moral responsibilit
+ y\nColloquium\nTimes and rooms change without notice — confirm with the 
+ host department before travelling.\nhttps://docket.aaronlberman.com
+LOCATION:32-D461
+URL:https://docket.aaronlberman.com
+END:VEVENT
+END:VCALENDAR

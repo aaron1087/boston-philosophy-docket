@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aaron Berman//Boston Philosophy Docket//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Philosophy Docket
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:6a104efc8d9aa03a2f3e@docket.aaronlberman.com
+DTSTAMP:20260915T120000Z
+DTSTART:20261016T190000Z
+DTEND:20261016T200000Z
+SUMMARY:Kareem Khalifa (UCLA) [MIT]
+DESCRIPTION:Works on: scientific explanation and understanding · epistemol
+ ogy · philosophy of social science · science and values · naturalized s
+ ocial ontology\nColloquium\nTimes and rooms change without notice — conf
+ irm with the host department before travelling.\nhttps://docket.aaronlberm
+ an.com
+LOCATION:32-D461
+URL:https://docket.aaronlberman.com
+END:VEVENT
+END:VCALENDAR

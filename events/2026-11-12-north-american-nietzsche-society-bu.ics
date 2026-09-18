@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aaron Berman//Boston Philosophy Docket//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Philosophy Docket
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:967d294e1d7e27396162@docket.aaronlberman.com
+DTSTAMP:20260915T120000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261115
+SUMMARY:North American Nietzsche Society — Annual conference\, three days
+  [BU]
+DESCRIPTION:Annual conference\, three days\nConference\nTimes and rooms cha
+ nge without notice — confirm with the host department before travelling.
+ \nhttps://docket.aaronlberman.com
+LOCATION:Boston University Department of Philosophy\, Boston MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+END:VCALENDAR

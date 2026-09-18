@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aaron Berman//Boston Philosophy Docket//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Philosophy Docket
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:c0d05593e85de938318c@docket.aaronlberman.com
+DTSTAMP:20260915T120000Z
+DTSTART:20260918T180000Z
+DTEND:20260918T200000Z
+SUMMARY:Matt Brewer [BU]
+DESCRIPTION:Works on: philosophy of earth sciences · scientific models and
+  representation · analogy in science · explanation and theory change\nDi
+ ssertation defense\nTimes and rooms change without notice — confirm with
+  the host department before travelling.\nhttps://docket.aaronlberman.com
+LOCATION:Boston University Department of Philosophy\, Boston MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+END:VCALENDAR

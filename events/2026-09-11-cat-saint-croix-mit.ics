@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aaron Berman//Boston Philosophy Docket//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Philosophy Docket
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:3bf8eca955f5616c033f@docket.aaronlberman.com
+DTSTAMP:20260915T120000Z
+DTSTART:20260911T190000Z
+DTEND:20260911T200000Z
+SUMMARY:Cat Saint-Croix (Minnesota) [MIT]
+DESCRIPTION:Works on: formal epistemology · social and feminist epistemolo
+ gy · attention · ethics of belief · philosophy of gender\, race and sex
+ uality\nColloquium\nTimes and rooms change without notice — confirm with
+  the host department before travelling.\nhttps://docket.aaronlberman.com
+LOCATION:32-D461
+URL:https://docket.aaronlberman.com
+END:VEVENT
+END:VCALENDAR

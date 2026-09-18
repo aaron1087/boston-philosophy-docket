@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aaron Berman//Boston Philosophy Docket//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Philosophy Docket
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:b8e96d75c7bbc8b3641a@docket.aaronlberman.com
+DTSTAMP:20260915T120000Z
+DTSTART:20261105T213000Z
+DTEND:20261105T233000Z
+SUMMARY:Susan Brison (Dartmouth) [Tufts]
+DESCRIPTION:Works on: trauma and personal identity · sexual violence · fe
+ minist philosophy · free speech and hate speech · narrative and the self
+ \nFall Colloquium Series\nTimes and rooms change without notice — confir
+ m with the host department before travelling.\nhttps://docket.aaronlberman
+ .com
+LOCATION:Mugar 200
+URL:https://docket.aaronlberman.com
+END:VEVENT
+END:VCALENDAR

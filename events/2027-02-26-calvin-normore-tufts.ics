@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aaron Berman//Boston Philosophy Docket//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Philosophy Docket
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:e819c5fe4cdaa55d26ae@docket.aaronlberman.com
+DTSTAMP:20260915T120000Z
+DTSTART:20270226T203000Z
+DTEND:20270226T223000Z
+SUMMARY:Calvin Normore (UCLA) [Tufts]
+DESCRIPTION:Works on: medieval philosophy · Ockham and late scholastic log
+ ic · free will · history of ethics · metaphysics of modality\nSpring Co
+ lloquium Series\nTimes and rooms change without notice — confirm with th
+ e host department before travelling.\nhttps://docket.aaronlberman.com
+LOCATION:Tufts University Department of Philosophy\, Medford MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+END:VCALENDAR

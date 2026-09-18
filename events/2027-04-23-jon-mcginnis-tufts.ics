@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aaron Berman//Boston Philosophy Docket//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Philosophy Docket
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:95ee3ee331e1d4315f6d@docket.aaronlberman.com
+DTSTAMP:20260915T120000Z
+DTSTART:20270423T193000Z
+DTEND:20270423T213000Z
+SUMMARY:Jon McGinnis (Toronto) [Tufts]
+DESCRIPTION:Works on: Arabic and Islamic philosophy · Avicenna · medieval
+  natural philosophy · classical and medieval science · causation\nSpring
+  Colloquium Series\nTimes and rooms change without notice — confirm with
+  the host department before travelling.\nhttps://docket.aaronlberman.com
+LOCATION:Tufts University Department of Philosophy\, Medford MA
+URL:https://docket.aaronlberman.com
+END:VEVENT
+END:VCALENDAR

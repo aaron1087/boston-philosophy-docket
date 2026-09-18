@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aaron Berman//Boston Philosophy Docket//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Philosophy Docket
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:3a2f0278131e11eeb09a@docket.aaronlberman.com
+DTSTAMP:20260915T120000Z
+DTSTART:20270430T190000Z
+DTEND:20270430T200000Z
+SUMMARY:Lucy Campbell (Warwick) [MIT]
+DESCRIPTION:Works on: philosophy of action · epistemology · self-knowledg
+ e and practical knowledge · philosophy of mind · knowing how\nColloquium
+ \nTimes and rooms change without notice — confirm with the host departme
+ nt before travelling.\nhttps://docket.aaronlberman.com
+LOCATION:32-D461
+URL:https://docket.aaronlberman.com
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aaron Berman//Boston Philosophy Docket//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Philosophy Docket
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:3320d6ba0cbd0ab3073c@docket.aaronlberman.com
+DTSTAMP:20260915T120000Z
+DTSTART:20260911T190000Z
+DTEND:20260911T210000Z
+SUMMARY:Patrick Connolly (Johns Hopkins) — Newton's Matter Theory: Betwee
+ n Mechanism and Hylomorphism [Harvard]
+DESCRIPTION:Newton's Matter Theory: Between Mechanism and Hylomorphism\nWor
+ ks on: 17th-18th-century philosophy · Locke · history of science · phil
+ osophy of religion · Indigenous philosophy of the Americas\nHistory of Ph
+ ilosophy Workshop\nTimes and rooms change without notice — confirm with 
+ the host department before travelling.\nhttps://docket.aaronlberman.com
+LOCATION:Emerson 211
+URL:https://docket.aaronlberman.com
+END:VEVENT
+END:VCALENDAR

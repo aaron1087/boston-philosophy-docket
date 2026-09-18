@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aaron Berman//Boston Philosophy Docket//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Philosophy Docket
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:89ef28be65fd033eeef1@docket.aaronlberman.com
+DTSTAMP:20260915T120000Z
+DTSTART:20270219T200000Z
+DTEND:20270219T220000Z
+SUMMARY:Janum Sethi (Michigan) [Harvard]
+DESCRIPTION:Works on: Kant’s metaphysics and epistemology · Kant’s aes
+ thetics · judgment and the imagination · 17th-18th-century philosophy\nH
+ istory of Philosophy Workshop\nTimes and rooms change without notice — c
+ onfirm with the host department before travelling.\nhttps://docket.aaronlb
+ erman.com
+LOCATION:Emerson 211
+URL:https://docket.aaronlberman.com
+END:VEVENT
+END:VCALENDAR

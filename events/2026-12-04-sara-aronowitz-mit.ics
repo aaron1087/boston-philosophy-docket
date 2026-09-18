@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aaron Berman//Boston Philosophy Docket//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Philosophy Docket
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:271eba9234ccd3e4fd1b@docket.aaronlberman.com
+DTSTAMP:20260915T120000Z
+DTSTART:20261204T200000Z
+DTEND:20261204T210000Z
+SUMMARY:Sara Aronowitz (Toronto) [MIT]
+DESCRIPTION:Works on: epistemology · philosophy of cognitive science · le
+ arning and memory · decision theory · philosophy of artificial intellige
+ nce\nColloquium\nTimes and rooms change without notice — confirm with th
+ e host department before travelling.\nhttps://docket.aaronlberman.com
+LOCATION:32-D461
+URL:https://docket.aaronlberman.com
+END:VEVENT
+END:VCALENDAR
