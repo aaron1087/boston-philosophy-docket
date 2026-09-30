@@ -6,15 +6,15 @@ METHOD:PUBLISH
 X-WR-CALNAME:Boston Philosophy Docket
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:31e151e04fab0f80372e@docket.aaronlberman.com
-DTSTAMP:20260915T120000Z
+UID:31e151e04fab0f80372e
+DTSTAMP:20260930T120000Z
 DTSTART:20270409T190000Z
 DTEND:20270409T200000Z
 SUMMARY:Jason Brennan (Georgetown) [MIT]
 DESCRIPTION:Works on: social and political philosophy · democratic theory 
  and epistocracy · normative ethics · political economy · business ethic
- s\nColloquium\nTimes and rooms change without notice — confirm with the 
- host department before travelling.\nhttps://docket.aaronlberman.com
+ s\nColloquium · MIT\nTimes and rooms change without notice — confirm wi
+ th the host department before travelling.\nhttps://docket.aaronlberman.com
 LOCATION:32-D461
 URL:https://docket.aaronlberman.com
 END:VEVENT

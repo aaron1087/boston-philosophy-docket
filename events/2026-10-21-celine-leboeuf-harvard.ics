@@ -6,17 +6,16 @@ METHOD:PUBLISH
 X-WR-CALNAME:Boston Philosophy Docket
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:1c87340168b22a00c3e9@docket.aaronlberman.com
-DTSTAMP:20260915T120000Z
+UID:1c87340168b22a00c3e9
+DTSTAMP:20260930T120000Z
 DTSTART:20261021T230000Z
 DTEND:20261022T003000Z
 SUMMARY:Celine Leboeuf (Florida International) — Book release: The Tyrann
  y of Thinness [Harvard]
-DESCRIPTION:Book release: The Tyranny of Thinness\nWorks on: feminist philo
- sophy · critical philosophy of race · phenomenology of the body · beaut
- y standards · Beauvoir\nBook release\nTimes and rooms change without noti
- ce — confirm with the host department before travelling.\nhttps://docket
- .aaronlberman.com
+DESCRIPTION:Works on: feminist philosophy · critical philosophy of race ·
+  phenomenology of the body · beauty standards · Beauvoir\nBook release 
+ · Harvard\nTimes and rooms change without notice — confirm with the hos
+ t department before travelling.\nhttps://docket.aaronlberman.com
 LOCATION:Porter Square Books
 URL:https://docket.aaronlberman.com
 END:VEVENT

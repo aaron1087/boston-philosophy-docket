@@ -6,15 +6,15 @@ METHOD:PUBLISH
 X-WR-CALNAME:Boston Philosophy Docket
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:48271327fc1f5975e22a@docket.aaronlberman.com
-DTSTAMP:20260915T120000Z
+UID:48271327fc1f5975e22a
+DTSTAMP:20260930T120000Z
 DTSTART:20270416T200000Z
 DTEND:20270416T220000Z
 SUMMARY:Rachel Fraser (MIT) [BU]
 DESCRIPTION:Works on: epistemology · narrative and testimony · feminist p
  hilosophy · language and gossip · social epistemology\nFriday Colloquium
- \nTimes and rooms change without notice — confirm with the host departme
- nt before travelling.\nhttps://docket.aaronlberman.com
+  · BU\nTimes and rooms change without notice — confirm with the host de
+ partment before travelling.\nhttps://docket.aaronlberman.com
 LOCATION:Boston University Department of Philosophy\, Boston MA
 URL:https://docket.aaronlberman.com
 END:VEVENT

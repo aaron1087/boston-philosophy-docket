@@ -6,17 +6,16 @@ METHOD:PUBLISH
 X-WR-CALNAME:Boston Philosophy Docket
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:d15187cfca742d43d016@docket.aaronlberman.com
-DTSTAMP:20260915T120000Z
+UID:d15187cfca742d43d016
+DTSTAMP:20260930T120000Z
 DTSTART:20261022T210000Z
 DTEND:20261022T230000Z
 SUMMARY:Laure Barillas (New Hampshire) — What Is Powerlessness? A Philoso
  phical Exploration [BU]
-DESCRIPTION:What Is Powerlessness? A Philosophical Exploration\nWorks on: c
- ontinental and French philosophy · feminist philosophy · race\, gender a
- nd social justice · powerlessness and agency\nInvited talk\nTimes and roo
- ms change without notice — confirm with the host department before trave
- lling.\nhttps://docket.aaronlberman.com
+DESCRIPTION:Works on: continental and French philosophy · feminist philoso
+ phy · race\, gender and social justice · powerlessness and agency\nInvit
+ ed talk · BU\nTimes and rooms change without notice — confirm with the 
+ host department before travelling.\nhttps://docket.aaronlberman.com
 LOCATION:Boston University Department of Philosophy\, Boston MA
 URL:https://docket.aaronlberman.com
 END:VEVENT

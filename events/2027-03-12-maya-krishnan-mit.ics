@@ -6,15 +6,15 @@ METHOD:PUBLISH
 X-WR-CALNAME:Boston Philosophy Docket
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:9f2c0ce45694ece06d30@docket.aaronlberman.com
-DTSTAMP:20260915T120000Z
+UID:9f2c0ce45694ece06d30
+DTSTAMP:20260930T120000Z
 DTSTART:20270312T200000Z
 DTEND:20270312T210000Z
 SUMMARY:Maya Krishnan (Chicago) [MIT]
 DESCRIPTION:Works on: Kant · philosophy of religion and theology · metaph
  ysics · intelligibility and rational reference · moral philosophy\nCollo
- quium\nTimes and rooms change without notice — confirm with the host dep
- artment before travelling.\nhttps://docket.aaronlberman.com
+ quium · MIT\nTimes and rooms change without notice — confirm with the h
+ ost department before travelling.\nhttps://docket.aaronlberman.com
 LOCATION:32-D461
 URL:https://docket.aaronlberman.com
 END:VEVENT
